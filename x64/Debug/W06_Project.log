@@ -1,0 +1,3 @@
+﻿  W06_Project.c
+C:\Users\squir\source\repos\W06_Project\W06_Project\W06_Project.c(26,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  W06_Project.vcxproj -> C:\Users\squir\source\repos\W06_Project\x64\Debug\W06_Project.exe
